@@ -1,13 +1,12 @@
 {
   "name": "next-portfolio",
   "version": "0.1.0",
-  "homepage": "http://mukhid.cvirvan.com",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "postbuild": "next-sitemap --config",
     "start": "next start",
+    "export": "next export",
     "lint": "next lint"
   },
   "dependencies": {
