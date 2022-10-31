@@ -23,7 +23,7 @@ const portfolio = [
     img: "/images/amospa.PNG",
     category: "Website App",
     keyword: ["Website", "App", "Full-Stack Development"],
-    liveUrl: "https://admin.new.amospa.com/",
+    liveUrl: "https://admin.amospa.com/",
   },
 
   {
